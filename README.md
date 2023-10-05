@@ -1,3 +1,9 @@
 # FIle_Encryptor
-Here are two programs. One program decrypts your file and the other one encrypts it.
-In order to do that, the file you want to encrypt should be in the same directory as these programs. Then you can run FileEncrypt.cpp file to encrypt the file and whenever you want, you can run FileDecrypt.cpp file to Decrypt your file and follow the instructions in the program. Thank you.
+Introducing My File Encryption and Decryption Toolkit!
+Keep Your Files Secure with Ease!
+
+1. Place the file you want to encrypt in the same directory as our programs: FileEncrypt.cpp and FileDecrypt.cpp.
+2. Run FileEncrypt.cpp to encrypt your file effortlessly. Just follow the on-screen instructions.
+3. When you need access, run FileDecrypt.cpp to decrypt your file in a snap.
+
+It's that easy! Protect your data and enjoy peace of mind. Your files, your security, simplified.
