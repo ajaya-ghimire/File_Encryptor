@@ -1,5 +1,4 @@
 # FIle_Encryptor
-Introducing My File Encryption and Decryption Toolkit!
 Keep Your Files Secure with Ease!
 
 1. Place the file you want to encrypt in the same directory as our programs: FileEncrypt.cpp and FileDecrypt.cpp.
